@@ -1,6 +1,6 @@
 # AIFFEL Core Curriculum
 
-This repository contains the core quests for the AIFFEL program. The structure is designed to separate the quests into categories: MainQuest, Python, Flutter, and Exploration.
+구조도 입니다.
 
 ## Repository Structure
 
