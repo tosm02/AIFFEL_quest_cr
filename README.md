@@ -1,3 +1,89 @@
+# AIFFEL Core Curriculum
+
+This repository contains the core quests for the AIFFEL program. The structure is designed to separate the quests into categories: MainQuest, Python, Flutter, and Exploration.
+
+## Repository Structure
+
+```bash
+AIFFEL_quest_cr
+├── MainQuest
+│   ├── Quest01
+│   │   ├── main.ipynb
+│   │   └── README.md
+│   ├── Quest02
+│   │   ├── main.ipynb
+│   │   └── README.md
+│   ├── Quest03
+│   │   ├── main.ipynb
+│   │   └── README.md
+│   ├── Quest04
+│   │   ├── main.ipynb
+│   │   └── README.md
+│   ├── Quest05
+│   │   ├── main.ipynb
+│   │   └── README.md
+│   ├── Quest06
+│   │   ├── main.ipynb
+│   │   └── README.md
+│   ├── Quest07
+│   │   ├── main.ipynb
+│   │   └── README.md
+│   └── Quest08
+│       ├── main.ipynb
+│       └── README.md
+├── Python
+│   ├── Quest01
+│   │   ├── main.ipynb
+│   │   └── README.md
+│   ├── Quest02
+│   │   ├── main.ipynb
+│   │   └── README.md
+│   ├── Quest03
+│   │   ├── main.ipynb
+│   │   └── README.md
+│   └── Quest04
+│       ├── main.ipynb
+│       └── README.md
+├── Flutter
+│   ├── Quest01
+│   │   ├── main.ipynb
+│   │   └── README.md
+│   ├── Quest02
+│   │   ├── main.ipynb
+│   │   └── README.md
+│   ├── Quest03
+│   │   ├── main.ipynb
+│   │   └── README.md
+│   ├── Quest04
+│   │   ├── main.ipynb
+│   │   └── README.md
+│   └── Quest05
+│       ├── main.ipynb
+│       └── README.md
+└── Exploration
+    ├── Ex01
+    │   ├── main.ipynb
+    │   └── README.md
+    ├── Ex02
+    │   ├── main.ipynb
+    │   └── README.md
+    ├── Ex03
+    │   ├── main.ipynb
+    │   └── README.md
+    ├── Ex04
+    │   ├── main.ipynb
+    │   └── README.md
+    ├── Ex05
+    │   ├── main.ipynb
+    │   └── README.md
+    ├── Ex06
+    │   ├── main.ipynb
+    │   └── README.md
+    └── Ex07
+        ├── main.ipynb
+        └── README.md
+
+
 # AIFFEL Campus Online Code Peer Review Templete
 - 코더 : 코더의 이름을 작성하세요.
 - 리뷰어 : 리뷰어의 이름을 작성하세요.
