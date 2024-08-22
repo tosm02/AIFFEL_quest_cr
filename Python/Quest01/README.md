@@ -7,7 +7,8 @@
 - [o]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
     - 문제에서 요구하는 최종 결과물이 첨부되었는지 확인
         - 중요! 해당 조건을 만족하는 부분을 캡쳐해 근거로 첨부
-<img width="457" alt="image" src="https://github.com/user-attachments/assets/027fceb6-cdac-495f-bbd8-0f1a225adffc">
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/4f920602-15c9-40e8-a193-c21895ed3f26">
+
 
 - [x]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
@@ -36,7 +37,8 @@
     - 파이썬 스타일 가이드 (PEP8) 를 준수하였는지 확인
     - 코드 중복을 최소화하고 범용적으로 사용할 수 있도록 함수화/모듈화했는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
-<img width="444" alt="image" src="https://github.com/user-attachments/assets/89e3cac4-05a5-456e-94a0-09cd3888964d">
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/4eb22f3b-fd67-4253-b494-c256e3e50507">
+
 
 
 # 회고(참고 링크 및 코드 개선)
