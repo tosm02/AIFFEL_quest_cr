@@ -5,6 +5,10 @@
     - 문제를 해결하는 완성된 코드란 프로젝트 루브릭 3개 중 2개, 
     퀘스트 문제 요구조건 등을 지칭
         - 해당 조건을 만족하는 부분의 코드 및 결과물을 캡쳐하여 사진으로 첨부
+        - <img width="472" alt="image" src="https://github.com/user-attachments/assets/e78ab8f6-6221-42c2-b1ae-ba6c52bc6beb">
+        <img width="650" alt="image" src="https://github.com/user-attachments/assets/31f18262-9146-49d1-8236-8cf7ee798035">
+
+
 
 - [x]  **2. 프로젝트에서 핵심적인 부분에 대한 설명이 주석(닥스트링) 및 마크다운 형태로 잘 기록되어있나요? (설명)**
     - [o]  모델 선정 이유
